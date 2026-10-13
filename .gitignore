@@ -39,3 +39,19 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Firebase Admin credentials
+firebase-service-account*.json
+# Additional sensitive credentials
+*service-account*.json
+*private-key*
+# Temporary Excel files
+~$*.xlsx
+# Local product spreadsheets
+*.xlsx
+# Excel files and temporary Excel lock files
+*.xlsx
+~$*.xlsx
+# Additional sensitive credentials
+*service-account*.json
+*private-key*
